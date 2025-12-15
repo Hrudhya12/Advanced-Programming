@@ -1,4 +1,5 @@
 Pet Adoption App
+
 Overview
 This is a Java console application designed based on Object-Oriented Programming (OOP) principles.
 It creates a pet adoption app where users can:
